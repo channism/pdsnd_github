@@ -16,6 +16,8 @@ MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
 DAYS = ['sunday', 'monday', 'tuesday', 'wednesday', \
         'thursday', 'friday', 'saturday' ]
 
+#new comment in documentation branch
+
 def get_filters():
     """
     User to specify a city, month, and day to analyze.
