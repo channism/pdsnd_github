@@ -7,6 +7,8 @@ import numpy as np
 import json
 from input_util import get_user_input
 
+# new comment in refactoring branch
+
 CITY_DATA = { 'chicago': 'chicago.csv','new york': 'new_york_city.csv','washington': 'washington.csv' }
 
 CITIES = ['chicago', 'new york', 'washington']
